@@ -1,0 +1,30 @@
+
+
+
+h1, h2, h3, h4, h5, h6 {font-family: 'Notable', sans-serif; color: #28536b}
+p, a, li, dt, dd, td, th, address {font-family: 'Oxygen', sans-serif;}
+
+div#one {background-color: #f89ea8; color: white;}
+
+div#two {background-color: #ebd4cb;}
+
+div#three {background-color: #adbca5; color: white;}
+
+div#four {background-color: #c19ab7; color: white;
+  height: 350}
+
+div#five {background-color: #28536b; color: white}
+
+div#six {background-color: white; color: #28536b}
+
+h1 {font-size: 3.815em}
+h2 {font-size: 3.052em}
+h3 {font-size: 2.441em}
+h4 {font-size: 1.953em}
+h5 {font-size: 1.563em}
+h6 {font-size: 1.25em}
+p {font-size: 1em}
+
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
