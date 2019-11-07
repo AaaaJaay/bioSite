@@ -56,12 +56,19 @@ dl
   {
     list-style-position: inside;
   }
-nav, #feature, .article, #footer
+#feature, .article, #footer
   {
     margin: 10px;
     padding: 2px 0px 2px 0px;
     float: left;
   }
+
+  nav
+    {
+      padding-top: 2.5em;
+      margin: 10px;
+      float: right;
+    }
 #feature, .article
   {
     min-height: 100px;
