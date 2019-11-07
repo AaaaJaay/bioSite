@@ -39,6 +39,11 @@ p, a, li, dt, dd, td, th, address, a:hover, a:visited, a:active, a:link
     color: #423D4C;
   }
 
+  p
+  {
+    line-height: 1.25em;
+  }
+  
 blockquote
   {
     font-family: 'Oxygen', sans-serif;
@@ -51,7 +56,7 @@ dl
   {
     list-style-position: inside;
   }
-#nav, #feature, .article, #footer
+nav, #feature, .article, #footer
   {
     margin: 10px;
     padding: 2px 0px 2px 0px;
@@ -66,11 +71,7 @@ dl
     display: inline;
     padding: 5px;
   }
-#nav
-  {
-    text-align: right;
-    vertical-align: text-bottom;
-  }
+
 #nav_bar
   {
     column-count: 2;
